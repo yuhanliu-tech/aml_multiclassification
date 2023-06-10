@@ -53,10 +53,19 @@ Total: 1650/330
 
 Next Steps
 
-- Correlation/cross Verification (CS227) - this week
-- Randomly assign test/train data (smaller subsets of both) 
+- Correlation/cross Verification (CS227) - this week 
+- Randomly assign test/train data (smaller subsets of both - DONE) 
 - Collect new group of images (different batch of images as test data and check accuracy) - this week
 - GCode
 - Real-time predictions (***)
 
 
+After implementing random assignment of test/training data: 
+
+3 bucket accuracy: 
+- 1. 99.091
+- 2. 98.611
+- 3. 99.213
+
+5 bucket accuracy: 
+- 1. 99.273
