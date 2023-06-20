@@ -86,4 +86,23 @@ Underextruded: (low pressure: 100 + 550, too close: 100 + 550) = 1300
 Good: (580 + 720) = 1300
 Overextruded: (high pressure: 100 + 550, too far: 100 + 550) = 1300
 
+Accuracy: 65.401
+Notes: 
+- try CSV files again
+- reorganize data
+  - layer photos only 
+  - clean data 
+- fix model
+
+
+First Layer Error Prediction Model (Attempt 2):
+
+Prepared Data: 
+
+Underextruded: (low pressure: 100 + 550, too close: 100 + 550) = 1300
+Good: (580 + 720) = 1300
+Overextruded: (high pressure: 100 + 550, too far: 100 + 550) = 1300
+ 
+accuracy: 98.172
+
 
