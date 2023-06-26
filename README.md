@@ -1,5 +1,10 @@
 # Architected Material Lab: Multiclassification for 3D Printing Error Detection 
 
+## Files in Repo
+
+- point
+-- subpoint?
+
 ## Data Organization Breakdown
 
 Raw Data: 
@@ -15,5 +20,7 @@ Layer One Data (3 Buckets):
 - Images of single printed layer prepared for model to distinguish between extrusion types. 
 
 ## How to Create a Model 
+
+- 
 
 ## Notes and Updates
