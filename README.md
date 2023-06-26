@@ -3,7 +3,7 @@
 ## Files in Repo
 
 - point
--- subpoint?
+    - subpoint?
 
 ## Data Organization Breakdown
 
