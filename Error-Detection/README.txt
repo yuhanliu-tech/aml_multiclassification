@@ -106,3 +106,10 @@ Overextruded: (high pressure: 100 + 550, too far: 100 + 550) = 1300
 accuracy: 98.172
 
 
+Test for Collection of Success Rate
+
+- repeat each error type 100 times 
+- look at other publications in drive 
+
+
+
