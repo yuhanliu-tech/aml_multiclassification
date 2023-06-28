@@ -25,6 +25,8 @@
 
 - NOTEBOOK: **Printer GUI.ipynb** - (m2py script used to connect computer to printer)
 
+- DOCX: **Literature Review.doxc** - Summary and Notes of research publications with similar topics 
+
 - TEXT FILE: **README.txt** - (raw notes)
 
 ## Notes and Updates
