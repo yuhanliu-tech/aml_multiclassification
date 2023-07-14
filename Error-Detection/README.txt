@@ -111,5 +111,12 @@ Test for Collection of Success Rate
 - repeat each error type 100 times 
 - look at other publications in drive 
 
+Multiprocessing 
+
+- Reference for running simultaneous independent functions: https://stackoverflow.com/questions/7207309/how-to-run-functions-in-parallel
+- Complete guide: https://superfastpython.com/multiprocessing-in-python/
+
+update, the above might not work for Jupyter notebooks, instead try: https://stackoverflow.com/questions/50937362/multiprocessing-on-python-3-jupyter
+or this: https://stackoverflow.com/questions/65522790/how-to-run-multiple-functions-synchronous-in-jupyter-notebook
 
 
