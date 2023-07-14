@@ -119,4 +119,6 @@ Multiprocessing
 update, the above might not work for Jupyter notebooks, instead try: https://stackoverflow.com/questions/50937362/multiprocessing-on-python-3-jupyter
 or this: https://stackoverflow.com/questions/65522790/how-to-run-multiple-functions-synchronous-in-jupyter-notebook
 
+asyncio seems to work for jupyter notebooks: https://stackoverflow.com/questions/27435284/multiprocessing-vs-multithreading-vs-asyncio
+
 
